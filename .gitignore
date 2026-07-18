@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# caches
+*.npy
+
+# Ignore generated data by default, but ship the source dataset (Apache 2.0, see README)
+*.parquet
